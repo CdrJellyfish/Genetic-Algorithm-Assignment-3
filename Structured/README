@@ -1,0 +1,5 @@
+To run the code open a terminal in the correct directory and run java Main
+
+Currently it produces a result using a random seed and the final set of paramaters, SToring the result in SingleRun.txt. To change this you can open Main.java and change the paremeters aswell as use a spesific seed. 
+Further there is the options do run the final test function that runs 10 GP's , storing the results in FinalTests.txt, aswell as running the parameter testing , that stores the results in paramTestOfReport.txt. 
+Do this by commenting and uncommenting the selcted functions in the Main.java

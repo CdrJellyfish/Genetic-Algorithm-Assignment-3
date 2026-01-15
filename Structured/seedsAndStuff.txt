@@ -1,0 +1,544 @@
+Testing epochs variability :
+
+TESTING EPOCHS : 10
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  10
+= 0.2096774193548387
+Best tree seed: -1080617081 avgFitness: 0.4838709677419355 function: ((FATIGUE * ASCITES) / (BILIRUBIN / BILIRUBIN))
+**********************************
+
+TESTING EPOCHS : 20
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  20
+= 0.23225806451612901
+Best tree seed: -1080616798 avgFitness: 0.6774193548387096 function: (((MALAISE / FATIGUE) * ASCITES) ^ ((BILIRUBIN - HISTOLOGY) % ((BILIRUBIN - HISTOLOGY) * (SPIDERS * 4.0))))
+**********************************
+
+TESTING EPOCHS : 40
+Testing epochs variability :
+
+TESTING EPOCHS : 10
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  10
+= 0.2806451612903226
+Best tree seed: -1080616177 avgFitness: 0.6774193548387096 function: (STEROID ^ (LIVER BIG ^ BILIRUBIN))
+**********************************
+
+TESTING EPOCHS : 20
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  40
+= 0.3516129032258064
+Best tree seed: -1080616345 avgFitness: 0.7419354838709677 function: (SPIDERS / LIVER BIG)
+**********************************
+
+TESTING EPOCHS : 80
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  20
+= 0.35806451612903223
+Best tree seed: -1080615857 avgFitness: 0.8064516129032258 function: ((HISTOLOGY * (STEROID ^ STEROID)) + (STEROID % STEROID))
+**********************************
+
+TESTING EPOCHS : 40
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  40
+= 0.5129032258064516
+Best tree seed: -1080615175 avgFitness: 0.8064516129032258 function: ((((ASCITES * SPLEEN PALPABLE) * (SEX * SEX)) / (((ASCITES * SPLEEN PALPABLE) * (SEX * SEX)) * ((SEX ^ MALAISE) / (HISTOLOGY / STEROID)))) ^ ((SEX + FATIGUE) % (HISTOLOGY - SEX)))
+**********************************
+
+TESTING EPOCHS : 80
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  80
+= 0.4
+Best tree seed: -1080614091 avgFitness: 0.7741935483870968 function: (((SPIDERS - ALBUMIN) * (SPLEEN PALPABLE + ASCITES)) + (ASCITES * (MALAISE + ALK PHOSPHATE)))
+**********************************
+
+TESTING EPOCHS : 160
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  80
+= 0.33870967741935487
+Best tree seed: -1080613558 avgFitness: 0.7741935483870968 function: ((ASCITES / ((ASCITES * (PROTIME % MALAISE)) % (SGOT + HISTOLOGY))) ^ (AGE % (VARICES * ALK PHOSPHATE)))
+**********************************
+
+TESTING EPOCHS : 160
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  160
+= 0.532258064516129
+Best tree seed: -1080611610 avgFitness: 0.7741935483870968 function: (ANOREXIA ^ BILIRUBIN)
+**********************************
+
+
+
+
+Testing size variability :
+
+TESTING SIZE : 10
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  10
+= 0.832258064516129
+Best tree seed: -1080609639 avgFitness: 0.8387096774193549 function: ((ASCITES * (HISTOLOGY + (SPIDERS / 8.0))) ^ (FATIGUE + ALBUMIN))
+**********************************
+
+TESTING SIZE : 20
+
+
+**********************************
+
+AVERAGE OF EPOCHS TEST  160
+= 0.4612903225806452
+Best tree seed: -1080613372 avgFitness: 0.7096774193548387 function: (((LIVER BIG / (SEX - HISTOLOGY)) / (((MALAISE ^ BILIRUBIN) ^ (1.0 * LIVER FIRM)) - (MALAISE + LIVER BIG))) + (((ASCITES * ALK PHOSPHATE) ^ (MALAISE % BILIRUBIN)) / (MALAISE / BILIRUBIN)))
+**********************************
+
+
+
+
+Testing size variability :
+
+TESTING SIZE : 10
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  10
+= 0.835483870967742
+Best tree seed: -1080609305 avgFitness: 0.8387096774193549 function: (ASCITES ^ (ASCITES + ((4.0 - MALAISE) + (SPLEEN PALPABLE % ((4.0 / SEX) + (LIVER BIG % FATIGUE))))))
+**********************************
+
+TESTING SIZE : 20
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  20
+= 0.7096774193548387
+Best tree seed: -1080609235 avgFitness: 0.8387096774193549 function: ((ALBUMIN * (ANTIVIRALS + 9.0)) - (LIVER FIRM % (AGE - ASCITES)))
+**********************************
+
+TESTING SIZE : 40
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  20
+= 0.7774193548387098
+Best tree seed: -1080609051 avgFitness: 0.8387096774193549 function: ((ALBUMIN + (SGOT * VARICES)) + ((PROTIME ^ PROTIME) / ALBUMIN))
+**********************************
+
+TESTING SIZE : 40
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  40
+= 0.567741935483871
+Best tree seed: -1080608140 avgFitness: 0.8387096774193549 function: (((ASCITES + (ALK PHOSPHATE - ALK PHOSPHATE)) * ((SPLEEN PALPABLE % LIVER FIRM) - (LIVER FIRM / FATIGUE))) ^ (((BILIRUBIN * ANTIVIRALS) / (SPIDERS / MALAISE)) % ((ANOREXIA % ANOREXIA) ^ (ANTIVIRALS % MALAISE))))
+**********************************
+
+TESTING SIZE : 80
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  40
+= 0.5806451612903225
+Best tree seed: -1080608471 avgFitness: 0.8387096774193549 function: ((((PROTIME - PROTIME) % (SGOT + FATIGUE)) + ((PROTIME / PROTIME) ^ (FATIGUE - ANOREXIA))) + ((((BILIRUBIN * ANOREXIA) + ASCITES) % (SEX / HISTOLOGY)) * ((((PROTIME - PROTIME) % (SPLEEN PALPABLE + FATIGUE)) % ((PROTIME / PROTIME) ^ (FATIGUE - SEX))) ^ (FATIGUE + SPIDERS))))
+**********************************
+
+TESTING SIZE : 80
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  80
+= 0.2225806451612903
+Best tree seed: -1080606272 avgFitness: 0.3870967741935484 function: (((ASCITES + VARICES) / ((ANTIVIRALS * ALBUMIN) - BILIRUBIN)) ^ ((SPIDERS / SEX) + (ALBUMIN * SEX)))
+**********************************
+
+TESTING SIZE : 160
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  80
+= 0.19677419354838713
+Best tree seed: -1080608044 avgFitness: 0.45161290322580644 function: ((((LIVER BIG + LIVER BIG) + ((ASCITES % ALBUMIN) - (SPLEEN PALPABLE % STEROID))) - ((ASCITES / ALBUMIN) + (((LIVER BIG - HISTOLOGY) - (ANTIVIRALS % PROTIME)) + ((SEX + SEX) * (SPLEEN PALPABLE ^ ANOREXIA))))) % (((SEX * HISTOLOGY) % (ASCITES / ALBUMIN)) % ((ASCITES % ALBUMIN) - (SPLEEN PALPABLE % STEROID))))
+**********************************
+
+TESTING SIZE : 160
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  160
+= 0.1806451612903226
+Best tree seed: -1080602327 avgFitness: 0.25806451612903225 function: ((((ALBUMIN / AGE) ^ (STEROID ^ SPLEEN PALPABLE)) ^ (BILIRUBIN % STEROID)) * ((((ASCITES - ANOREXIA) - (LIVER BIG - LIVER BIG)) - (LIVER BIG - LIVER BIG)) / (SPLEEN PALPABLE + (SPIDERS * LIVER FIRM))))
+**********************************
+
+
+
+
+Testing Depth variability :
+
+TESTING DEPTH : 3
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  3
+= 0.3354838709677419
+Best tree seed: -1080600561 avgFitness: 0.7741935483870968 function: ((ANOREXIA ^ BILIRUBIN) / (STEROID * LIVER BIG))
+**********************************
+
+TESTING DEPTH : 4
+
+
+**********************************
+
+AVERAGE OF SIZE TEST  160
+= 0.16451612903225807
+Best tree seed: -1080604843 avgFitness: 0.1935483870967742 function: ((((LIVER FIRM % ALK PHOSPHATE) * VARICES) - ((LIVER FIRM * PROTIME) / PROTIME)) / (((HISTOLOGY + HISTOLOGY) ^ HISTOLOGY) % (SGOT - ANTIVIRALS)))
+**********************************
+
+
+
+
+Testing Depth variability :
+
+TESTING DEPTH : 3
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  4
+= 0.39354838709677414
+Best tree seed: -1080600412 avgFitness: 0.6774193548387096 function: ((ASCITES % ASCITES) + ((MALAISE + ASCITES) % ((LIVER BIG / ASCITES) % (ASCITES % FATIGUE))))
+**********************************
+
+TESTING DEPTH : 5
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  3
+= 0.35161290322580646
+Best tree seed: -1080600053 avgFitness: 0.6451612903225806 function: ((8.0 ^ SEX) / (STEROID % STEROID))
+**********************************
+
+TESTING DEPTH : 4
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  4
+= 0.3741935483870967
+Best tree seed: -1080599218 avgFitness: 0.7741935483870968 function: (ANOREXIA ^ BILIRUBIN)
+**********************************
+
+TESTING DEPTH : 5
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  5
+= 0.5129032258064516
+Best tree seed: -1080599289 avgFitness: 0.7741935483870968 function: (((VARICES * (HISTOLOGY ^ SGOT)) * ((PROTIME % PROTIME) - (FATIGUE + PROTIME))) ^ (((ASCITES % SPIDERS) % (FATIGUE / FATIGUE)) * ((ANOREXIA - STEROID) - (MALAISE / LIVER FIRM))))
+**********************************
+
+TESTING DEPTH : 6
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  5
+= 0.4129032258064516
+Best tree seed: -1080598210 avgFitness: 0.8387096774193549 function: (((10.0 - LIVER FIRM) * (((ANOREXIA * ALBUMIN) * ((6.0 * ASCITES) % (ALK PHOSPHATE / LIVER BIG))) + ((6.0 - ASCITES) * (ALK PHOSPHATE - LIVER BIG)))) + (ALK PHOSPHATE % LIVER BIG))
+**********************************
+
+TESTING DEPTH : 6
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  6
+= 0.5032258064516129
+Best tree seed: -1080597115 avgFitness: 0.7096774193548387 function: ((AGE % SGOT) / (((ASCITES % SGOT) % (((ASCITES % SEX) + (HISTOLOGY + STEROID)) % (ASCITES + AGE))) + (ANTIVIRALS / SGOT)))
+**********************************
+
+TESTING DEPTH : 7
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  6
+= 0.46451612903225803
+Best tree seed: -1080597597 avgFitness: 0.8387096774193549 function: (((ASCITES * ASCITES) + ((SGOT + SGOT) + PROTIME)) + ((SGOT + SGOT) / PROTIME))
+**********************************
+
+TESTING DEPTH : 7
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  7
+= 0.5967741935483872
+Best tree seed: -1080596527 avgFitness: 0.8387096774193549 function: (((((BILIRUBIN ^ (AGE ^ BILIRUBIN)) / (((ANOREXIA + LIVER FIRM) * ((ASCITES / ASCITES) % (ALBUMIN - ALBUMIN))) + (((PROTIME - MALAISE) + (LIVER FIRM % ANTIVIRALS)) / (ANTIVIRALS + ANTIVIRALS)))) ^ ((STEROID + (AGE * ALBUMIN)) / ((FATIGUE / FATIGUE) + (ANOREXIA - ANOREXIA)))) ^ (LIVER BIG / (AGE / LIVER FIRM))) % ((((AGE % ALBUMIN) ^ ((LIVER BIG + LIVER BIG) ^ BILIRUBIN)) / (((HISTOLOGY * BILIRUBIN) ^ (PROTIME / (AGE * ALBUMIN))) / (ANTIVIRALS * ALBUMIN))) + ((BILIRUBIN * ANOREXIA) % (PROTIME - (BILIRUBIN * BILIRUBIN)))))
+**********************************
+
+
+
+
+Testing gSplit variability :
+
+TESTING GSPLIT : 0.30000000000000004
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.30000000000000004
+= 0.567741935483871
+Best tree seed: -1080594500 avgFitness: 0.7741935483870968 function: (ALBUMIN * ANOREXIA)
+**********************************
+
+TESTING GSPLIT : 0.4
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.4
+= 0.3419354838709677
+Best tree seed: -1080594079 avgFitness: 0.7096774193548387 function: (STEROID + LIVER FIRM)
+**********************************
+
+TESTING GSPLIT : 0.5
+
+
+**********************************
+
+AVERAGE OF DEPTH TEST  7
+= 0.5967741935483871
+Best tree seed: -1080594501 avgFitness: 0.8709677419354839 function: ((((BILIRUBIN * BILIRUBIN) + ((SPIDERS ^ SPIDERS) ^ (VARICES * VARICES))) ^ (((PROTIME / (STEROID + STEROID)) + ((MALAISE / MALAISE) - (PROTIME % BILIRUBIN))) + (((((VARICES - VARICES) + (ALK PHOSPHATE + ALK PHOSPHATE)) + ((ALBUMIN - FATIGUE) % BILIRUBIN)) % (((PROTIME - PROTIME) ^ (PROTIME / SEX)) - ((ASCITES ^ ASCITES) + (BILIRUBIN / BILIRUBIN)))) ^ ((BILIRUBIN + BILIRUBIN) - (SGOT + LIVER FIRM))))) - ((((ALBUMIN / (ANTIVIRALS + HISTOLOGY)) - (PROTIME - PROTIME)) - (((MALAISE + HISTOLOGY) + AGE) / ((ANOREXIA % ANOREXIA) % MALAISE))) % (((((ASCITES + VARICES) ^ (SGOT + SGOT)) * (ASCITES / ASCITES)) % (VARICES / (ALBUMIN + ALBUMIN))) % (((HISTOLOGY - SPLEEN PALPABLE) * (ASCITES ^ ASCITES)) ^ (((SPIDERS / SPIDERS) * ANTIVIRALS) + SPIDERS)))))
+**********************************
+
+
+
+
+Testing gSplit variability :
+
+TESTING GSPLIT : 0.30000000000000004
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.5
+= 0.30000000000000004
+Best tree seed: -1080593528 avgFitness: 0.6451612903225806 function: (STEROID / 9.0)
+**********************************
+
+TESTING GSPLIT : 0.6
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.30000000000000004
+= 0.5354838709677419
+Best tree seed: -1080593395 avgFitness: 0.7741935483870968 function: (ANOREXIA / PROTIME)
+**********************************
+
+TESTING GSPLIT : 0.4
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.6
+= 0.2967741935483871
+Best tree seed: -1080593455 avgFitness: 0.6451612903225806 function: (STEROID / AGE)
+**********************************
+
+TESTING GSPLIT : 0.7
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.4
+= 0.4806451612903226
+Best tree seed: -1080593049 avgFitness: 0.7741935483870968 function: (ANOREXIA / SPIDERS)
+**********************************
+
+TESTING GSPLIT : 0.5
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.7
+= 0.2967741935483871
+Best tree seed: -1080592831 avgFitness: 0.6451612903225806 function: (STEROID / 0.0)
+**********************************
+
+
+
+
+Testing tSplit variability :
+
+TESTING TSPLIT : 0.4
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.4
+= 0.3817204301075269
+Best tree seed: -1080592674 avgFitness: 0.5913978494623656 function: (STEROID * ALBUMIN)
+**********************************
+
+TESTING TSPLIT : 0.5
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.5
+= 0.2580645161290323
+Best tree seed: -1080592514 avgFitness: 0.6451612903225806 function: (ASCITES * STEROID)
+**********************************
+
+TESTING GSPLIT : 0.6
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.5
+= 0.4
+Best tree seed: -1080592340 avgFitness: 0.5974025974025974 function: (ALBUMIN * STEROID)
+**********************************
+
+TESTING TSPLIT : 0.6
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.6
+= 0.2741935483870968
+Best tree seed: -1080592126 avgFitness: 0.8064516129032258 function: (VARICES * LIVER BIG)
+**********************************
+
+TESTING GSPLIT : 0.7
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.6
+= 0.3564516129032258
+Best tree seed: -1080592128 avgFitness: 0.5806451612903226 function: (STEROID / ANOREXIA)
+**********************************
+
+TESTING TSPLIT : 0.7
+
+
+**********************************
+
+AVERAGE OF GSPLIT TEST  0.7
+= 0.2161290322580645
+Best tree seed: -1080591807 avgFitness: 0.6451612903225806 function: (STEROID / AGE)
+**********************************
+
+
+
+
+Testing tSplit variability :
+
+TESTING TSPLIT : 0.4
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.7
+= 0.3
+Best tree seed: -1080591856 avgFitness: 0.5652173913043478 function: (ASCITES - FATIGUE)
+**********************************
+
+TESTING TSPLIT : 0.7999999999999999
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.4
+= 0.35268817204301073
+Best tree seed: -1080591681 avgFitness: 0.5483870967741935 function: (LIVER FIRM / MALAISE)
+**********************************
+
+TESTING TSPLIT : 0.5
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.7999999999999999
+= 0.4129032258064516
+Best tree seed: -1080591476 avgFitness: 0.6774193548387096 function: (SGOT * MALAISE)
+**********************************
+
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.5
+= 0.43636363636363634
+Best tree seed: -1080591505 avgFitness: 0.5974025974025974 function: (ASCITES * STEROID)
+**********************************
+
+TESTING TSPLIT : 0.6
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.6
+= 0.3983870967741936
+Best tree seed: -1080591288 avgFitness: 0.5806451612903226 function: (STEROID / MALAISE)
+**********************************
+
+TESTING TSPLIT : 0.7
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.7
+= 0.29130434782608694
+Best tree seed: -1080591039 avgFitness: 0.6304347826086957 function: (STEROID ^ BILIRUBIN)
+**********************************
+
+TESTING TSPLIT : 0.7999999999999999
+
+
+**********************************
+
+AVERAGE OF TSPLIT TEST  0.7999999999999999
+= 0.3193548387096774
+Best tree seed: -1080590415 avgFitness: 0.6451612903225806 function: (STEROID ^ BILIRUBIN)
+**********************************
+
